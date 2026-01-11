@@ -8,7 +8,7 @@ app.use(cors());
 app.use(express.json());
 
 // --- CẤU HÌNH BẢO MẬT ---
-const TOKEN = '8519714140:AAHuUH0VRtDvFOQKPeP_Rdd-qc30jQLq9vM'; // Token Bot
+const TOKEN = '8519714140:AAHxIvS3YiMsMAYByapx3l8enl1_0s-chrM'; // Token Bot
 const ADMIN_ID = 8144161968;             // ID Telegram Admin
 const API_SECRET = "ALEX_PRO_SECRET_@NGUYENDUVIPAA"; // MÃ BÍ MẬT CHỐNG CRACK API
 const DB_FILE = './database.json';
